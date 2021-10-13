@@ -1,1 +1,15 @@
-Josemaría Lizardi Oceguera
+Josemaría Lizardi Oceguera y Santiago Benitez 91
+1-En tus palabras, ¿Qué es internet?
+- Es una red de dispositivos interconectados a servidores a nivel mundial
+2-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+3-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+-Se organiza como una telarana donde estan conectadas las IP y DNS de los dispositivos
+4-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+5-Describe los protocolos que existen en internet, en específico HTTP y HTML
+- El HTTP es el nombre de un protocolo que nos permite hacer una peticion de datos y recursos y el HTML es el 
+lenguaje que usan algunas pajinas web
+6-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+7-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+- Para protegerme normalmente yo uso contrasenas que no sean muy sencillas y aveces las estoy constantemente 
+cambiando, tambien sirve usar la autentificacion de dos factores, y lo mas importante no pasar tu contrasena
+8-¿Cómo funciona la búsqueda de google?
