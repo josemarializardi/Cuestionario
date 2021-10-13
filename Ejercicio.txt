@@ -1,15 +1,31 @@
-Josemaría Lizardi Oceguera y Santiago Benitez 91
+Josemaría Lizardi Oceguera y Santiago Benitez Anaya 9-1
+
 1-En tus palabras, ¿Qué es internet?
-- Es una red de dispositivos interconectados a servidores a nivel mundial
+-  Es una red de dispositivos interconectados a servidores a nivel mundial.
+
 2-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+-  Por la electricidad; es una forma barata, pero con señal débil. Por la luz; es rápida, no se pierde la señal, pero es cara y difícil de 
+trabajar. Por el radio; es totalmente móvil , pero de corto alcance.
+
 3-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
--Se organiza como una telarana donde estan conectadas las IP y DNS de los dispositivos
+- Se organiza como una telaraña donde estan conectadas las IP y DNS de los dispositivos.
+
 4-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+- Cuando solicitas una canción, spotify la manda en muchos paquetes y TCP la checa para ver si esta bien y si 
+está bien la envía a tu PC.
+
 5-Describe los protocolos que existen en internet, en específico HTTP y HTML
-- El HTTP es el nombre de un protocolo que nos permite hacer una peticion de datos y recursos y el HTML es el 
-lenguaje que usan algunas pajinas web
+- El HTTP es el nombre de un protocolo que nos permite hacer una petición de datos y recursos y el HTML es el 
+lenguaje que usan algunas pájinas web.
+
 6-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+-  La enciptación es la combinación del mensaje para esconder el texto original, y esto se hace por medio de las llaves, 
+hay públicas que son las que todos pueden ver, pero hay una privada que tú solo puedes ver y sin esa nadie puede abrir el mensaje original.
+
 7-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-- Para protegerme normalmente yo uso contrasenas que no sean muy sencillas y aveces las estoy constantemente 
-cambiando, tambien sirve usar la autentificacion de dos factores, y lo mas importante no pasar tu contrasena
+- Para protegerme normalmente yo uso contraseñas que no sean muy sencillas y aveces las estoy constantemente 
+cambiando, tambien sirve usar la autentificación de dos factores, y lo mas importante no pasar tu contraseña.
+
 8-¿Cómo funciona la búsqueda de google?
+-  Funciona como una telaraña de páginas conectadas a través de hipervínculos, donde una "araña" ve cada una de las páginas conectadas y
+recolecta información importante, y esto lo añade a una basa de datos llamado ínice de búsqueda.
